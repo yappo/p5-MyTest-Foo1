@@ -1,0 +1,17 @@
+NAME
+    MyTest::Foo1 -
+
+SYNOPSIS
+      use MyTest::Foo1;
+
+DESCRIPTION
+    MyTest::Foo1 is
+
+AUTHOR
+    Default Name <yappo <at> shibuya <döt> pl>
+
+SEE ALSO
+LICENSE
+    This library is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself.
+
